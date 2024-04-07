@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class baitap_ungdungtiente {
+public class BT_ungdungtiente {
     public static void main(String[] args) {
         double vnd = 23000;
         double usd;
