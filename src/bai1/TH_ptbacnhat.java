@@ -1,3 +1,5 @@
+package bai1;
+
 import java.util.Scanner;
 
 public class TH_ptbacnhat {
