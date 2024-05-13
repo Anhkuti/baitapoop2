@@ -1,6 +1,6 @@
-package bai1;
+package bai4;
 
-public class Main {
+public class ChiSoCanNang {
     public static void main(String[] args) {
 
     }

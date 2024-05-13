@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BT_danhgialuchoc {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double diemChuyenCan, diemKiemTra, diemCuoiKy, diemTrungBinh;
+        double diemChuyenCan, diemKiemTra, diemCuoiKy;
 
         System.out.println("Hãy nhập điểm chuyên cần: ");
         diemChuyenCan = sc.nextDouble();
